@@ -1,0 +1,27 @@
+.appLayout {
+
+  &__logoContainer{
+    width: 90%;
+    margin: 0 auto;
+    margin-left: 3.5%;
+  }
+
+  &__logo {
+      transition: box-shadow 0.3s ease;
+       &:hover {
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      }
+    }
+
+  &__divider {
+      height: 1px;
+      width: 100%;
+      background-color: #ccc; 
+      margin: 10px 0;
+    }
+
+  &__content {
+     width: 90%;
+     margin: 0 auto;
+    }
+  }

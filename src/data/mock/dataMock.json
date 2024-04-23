@@ -1,0 +1,122 @@
+ [
+    {
+      "id": 1,
+      "price": "13 300",
+      "image": "@/assets/product.png",
+      "firstFlightTime": "10:45 – 08:00",
+      "secondFlightTime": "11:20 – 00:50",
+      "firstInRoadTime": "34г 15хв",
+      "secondInRoadTime": "16г 30хв",
+      "transfers": ["HKG"]
+    },
+    {
+        "id": 2,
+        "price": "11 300",
+        "image": "@/assets/product.png",
+        "firstFlightTime": "10:45 – 08:00",
+        "secondFlightTime": "11:20 – 00:50",
+        "firstInRoadTime": "3г 15хв",
+        "secondInRoadTime": "1г 30хв",
+        "transfers": ["HKG", "JNB", "JNB"]
+    },
+    {
+        "id": 3,
+        "price": "7 800",
+        "image": "@/assets/product.png",
+        "firstFlightTime": "10:45 – 08:00",
+        "secondFlightTime": "11:20 – 00:50",
+        "firstInRoadTime": "1г 15хв",
+        "secondInRoadTime": "0г 30хв",
+        "transfers": []
+    },
+    {
+        "id": 4,
+        "price": "13 300",
+        "image": "@/assets/product.png",
+        "firstFlightTime": "10:45 – 08:00",
+        "secondFlightTime": "11:20 – 00:50",
+        "firstInRoadTime": "34г 15хв",
+        "secondInRoadTime": "16г 30хв",
+        "transfers": ["HKG"]
+      },
+      {
+          "id": 5,
+          "price": "11 300",
+          "image": "@/assets/product.png",
+          "firstFlightTime": "10:45 – 08:00",
+          "secondFlightTime": "11:20 – 00:50",
+          "firstInRoadTime": "84г 15хв",
+          "secondInRoadTime": "16г 30хв",
+          "transfers": ["HKG", "JNB", "JNB"]
+      },
+      {
+          "id": 6,
+          "price": "7 300",
+          "image": "@/assets/product.png",
+          "firstFlightTime": "10:45 – 08:00",
+          "secondFlightTime": "11:20 – 00:50",
+          "firstInRoadTime": "34г 15хв",
+          "secondInRoadTime": "16г 30хв",
+          "transfers": []
+      },
+      {
+        "id": 7,
+        "price": "13 300",
+        "image": "@/assets/product.png",
+        "firstFlightTime": "10:45 – 08:00",
+        "secondFlightTime": "11:20 – 00:50",
+        "firstInRoadTime": "34г 15хв",
+        "secondInRoadTime": "16г 30хв",
+        "transfers": ["HKG"]
+      },
+      {
+          "id": 8,
+          "price": "11 300",
+          "image": "@/assets/product.png",
+          "firstFlightTime": "10:45 – 08:00",
+          "secondFlightTime": "11:20 – 00:50",
+          "firstInRoadTime": "34г 15хв",
+          "secondInRoadTime": "16г 30хв",
+          "transfers": ["HKG", "JNB", "JNB"]
+      },
+      {
+          "id": 9,
+          "price": "7 300",
+          "image": "@/assets/product.png",
+          "firstFlightTime": "10:45 – 08:00",
+          "secondFlightTime": "11:20 – 00:50",
+          "firstInRoadTime": "34г 15хв",
+          "secondInRoadTime": "16г 30хв",
+          "transfers": []
+      },
+      {
+          "id": 10,
+          "price": "13 300",
+          "image": "@/assets/product.png",
+          "firstFlightTime": "10:45 – 08:00",
+          "secondFlightTime": "11:20 – 00:50",
+          "firstInRoadTime": "34г 15хв",
+          "secondInRoadTime": "16г 30хв",
+          "transfers": ["HKG"]
+        },
+        {
+            "id": 11,
+            "price": "11 300",
+            "image": "@/assets/product.png",
+            "firstFlightTime": "10:45 – 08:00",
+            "secondFlightTime": "11:20 – 00:50",
+            "firstInRoadTime": "34г 15хв",
+            "secondInRoadTime": "16г 30хв",
+            "transfers": ["HKG", "JNB", "JNB"]
+        },
+        {
+            "id": 12,
+            "price": "7 300",
+            "image": "@/assets/product.png",
+            "firstFlightTime": "10:45 – 08:00",
+            "secondFlightTime": "11:20 – 00:50",
+            "firstInRoadTime": "34г 15хв",
+            "secondInRoadTime": "16г 30хв",
+            "transfers": []
+        }
+  ]

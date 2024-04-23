@@ -1,0 +1,23 @@
+.tabPanel {
+    display: flex;
+    margin-bottom: 22px;
+    margin-left: 10px;
+  }
+
+.tabPanel__tab {
+    padding: 15px;
+    background-color: #fff;
+    color: #4A4A4A;
+    border: 1px solid #DFE5EC;
+    cursor: pointer;
+    transition: box-shadow 0.3s;
+
+    &:hover {
+        box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+      }
+}
+
+.tabPanel__tab.active {
+    background-color: #2196F3;
+    color: #fff;
+  }

@@ -1,0 +1,37 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  background-color: #fff;
+}
+
+.card__price {
+  font-size: 24px;
+  font-weight: 600;
+  color:#2196F3;
+}
+
+.card__image { 
+  height: auto;
+  margin-left: auto;
+}
+
+.card__description {
+  display: flex;
+  margin-top: 10px;
+}
+
+.card__param {
+  margin-bottom: 5px;
+  margin-right: 30px;
+  font-weight: 600
+}
+
+.card__paramTitle {
+  color:#A0B0B9
+}
+

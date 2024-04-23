@@ -1,0 +1,17 @@
+.searchSidebar {
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   border-radius: 5px;
+   padding: 10px 20px;
+   margin-right: 40px;
+   background-color: #fff;
+   max-height: 240px;
+}
+
+.searchSidebar__checkboxWrapper {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .searchSidebar__checkboxWrapper > * + * {
+    margin-top: 10px;
+  }
